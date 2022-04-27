@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @activus-d a new-bie in the tech space.
+- 👋 Hello, I’m Damilola Oladele, a web developer.
 - 👀 I’m interested in in web developemnt and eager to learn languages that will help me in the accomplishment of this.
 - 🌱 I’m currently learning HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on HTML, CSS and javascript to enlarge my knowledge in the above code languages.
