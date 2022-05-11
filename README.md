@@ -1,9 +1,3 @@
-- 👋 Hello, I’m Damilola Oladele, a web developer.
-- 👀 I’m interested in in web developemnt and eager to learn languages that will help me in the accomplishment of this.
-- 🌱 I’m currently learning HTML, CSS and javascript
-- 💞️ I’m looking to collaborate on HTML, CSS and javascript to enlarge my knowledge in the above code languages.
-- 📫 You can reach me on twitter on https://twitter.com/activus_d - linkedin on: https://www.linkedin.com/in/damilola-mohammed-85310275/
-<!---
-activus-d/activus-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m Damilola Oladele, a Full-Stack Software Engineer at 100Devs. I am passionate about continous learning and providing web-based solutions to human problems with a background in Law and Estate Management.
+
+To get to know more about me, please viit my Website - [D.M Oladele](https://d-m-oladele.netlify.app/)
