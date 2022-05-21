@@ -1,4 +1,4 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Damilola Oladele](d-m-oladele.netlify.app) 👋. A self-motivated Full-Stack Software Engineer at 100Devs who has a background in Law and property management. I am passionate about learning new technologies and providing web-based solutions with my experience
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="35" height="25" /> Hi there, I'm [Damilola Oladele](d-m-oladele.netlify.app) 👋. A self-motivated Full-Stack Software Engineer at 100Devs who has a background in Law and property management. I am passionate about learning new technologies and providing web-based solutions with my experience
 
 ## <a href="https://activuscode.hashnode.dev/">
   <img align="left" alt="D.M. Oladele | Hashnode" width="50px" src="images/blog.jpg" />
