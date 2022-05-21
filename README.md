@@ -23,8 +23,10 @@
 <br>
 <br>
 <br>
-
+<br>
+##Stats
 ![D.M. Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=activus-d&show_icons=true&theme=highcontrast&hide=issues,contribs)]
+<br>
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activus-d&show_icons=true&theme=highcontrast&layout=compact)]
