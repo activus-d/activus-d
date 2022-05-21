@@ -24,7 +24,7 @@
 <br>
 <br>
 <br>
-##Stats
+## Stats
 ![D.M. Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=activus-d&show_icons=true&theme=highcontrast&hide=issues,contribs)]
 <br>
 <br>
