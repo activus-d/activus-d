@@ -6,12 +6,14 @@
 </a> 
 
 <br>
+<br>
+<br>
 
-### Skills 👨‍💻
+## Skills 👨‍💻
 
-<img align="left" alt="HTML" src="images/iHTML5.png" />
+<img align="left" alt="HTML" src="images/HTML5.png" />
 <img align="left" alt="CSS3" src="images/css3.png" />
-<img align="left" alt="JAVASCRIPT" src="images/download.jpg" />
+<img align="left" alt="JAVASCRIPT" src="images/download.png" />
 <img align="left" alt="REACT" src="images/react.png" />
 <img align="left" alt="NodeJs" src="images/nodejs.jpg" />
 <img align="left" alt="MongoDB" src="images/mongo.png" />
