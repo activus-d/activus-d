@@ -1,14 +1,20 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am [Damilola Oladele](https://d-m-oladele.netlify.app) 👋. A self-motivated Full-Stack Software Engineer at 100Devs who has a background in Law and property management. I am passionate about learning new technologies and providing web-based solutions with my experience.
 
 ## <a href="https://activuscode.hashnode.dev/">
+<<<<<<< HEAD
   <img align="left" alt="D.M. Oladele | Hashnode" width="40px" height="30px" src="images/blog.jpg" /> 
 </a> [Check Out My Articles](https://activuscode.hashnode.dev/)
+=======
+  <img align="left" alt="D.M. Oladele | Hashnode" width="40px" height="30px" src="images/blog.jpg" />
+  <strong>Check Out My Articles</strong>
+</a>
+>>>>>>> 8ac793e17327fa0a7b2127df0d96db4e8401672b
 
 <br>
 <br>
 <br>
 
-## Skills 👨‍💻
+## Tech Stack 👨‍💻
 
 <img align="left" alt="HTML" src="images/HTML5.png" />
 <img align="left" alt="CSS3" src="images/css3.png" />
@@ -16,8 +22,13 @@
 <img align="left" alt="REACT" src="images/react.png" />
 <img align="left" alt="NodeJs" src="images/nodejs.jpg" />
 <img align="left" alt="MongoDB" src="images/mongo.png" />
-<img align="left" alt="ExpressJs" src="images/espressjs.png" />
+<img align="left" alt="ExpressJs" src="images/expressjs.png" />
 <img align="left" alt="Postgresql" src="images/postgresql.png" />
 <br>
-<br> -->
+<br>
+<br>
+
+![D.M. Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=activus-d&show_icons=true&theme=highcontrast&hide=issues,contribs)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activus-d&show_icons=true&theme=highcontrast&layout=compact)]
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=activusd&show_icons=true&theme=highcontrast&layout=compact)] -->
 
