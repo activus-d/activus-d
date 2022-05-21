@@ -1,7 +1,7 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Damilola Oladele](d-m-oladele.netlify.app) 👋
 
 <a href="https://activuscode.hashnode.dev/">
-  <img align="left" alt="D.M. Oladele | Hashnode" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/hashnode.svg" />
+  <img align="left" alt="D.M. Oladele | Hashnode" width="20px" src="blog.jpg" />
 </a>
 <a href="https://twitter.com/activus_d">
   <img align="left" alt="D.M Oladele | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
