@@ -2,13 +2,10 @@
 
 <a href="https://activuscode.hashnode.dev/">
   <img align="left" alt="D.M. Oladele | Hashnode" width="20px" src="blog.jpg" />
-</a>
-<a href="https://twitter.com/activus_d">
-  <img align="left" alt="D.M Oladele | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  Check out my articles
 </a>
 
-
-Hi, I'm Oladele Damilola, a self-motivated Full-stack software engineer.
+<p>Hi, I'm Oladele Damilola, a self-motivated Full-stack software engineer.</p>
 
 - 💬 Ask me about anything [here](https://github.com/MikeOwino/activus-d/issues)
 <br>
