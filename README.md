@@ -10,14 +10,16 @@
 
 ## Tech Stack 👨‍💻
 
-<img align="left" alt="HTML" src="images/html5.png" />
-<img align="left" alt="CSS3" src="images/css3.png" />
-<img align="left" alt="JAVASCRIPT" src="javascript.png" />
-<img align="left" alt="REACT JS" src="images/react.png" />
-<img align="left" alt="NEXT JS" src="images/next2.png" />
-<img align="left" alt="TAILWIND" src="images/tailwind.jpg" />
-<img align="left" alt="GITHUB" src="images/expressjs.png" />
-<img align="left" alt="BITBUCKET" src="images/bitbucket.png" />
+<div style="background-color: white; padding: 10px">
+  <img align="left" alt="HTML" src="images/html5.png" />
+  <img align="left" alt="CSS3" src="images/css3.png" />
+  <img align="left" alt="JAVASCRIPT" src="images/javascript.png" />
+  <img align="left" alt="REACT JS" src="images/react.png" />
+  <img align="left" alt="NEXT JS" src="images/next2.png" />
+  <img align="left" alt="TAILWIND" src="images/tailwind.jpg" />
+  <img align="left" alt="GITHUB" src="images/expressjs.png" />
+  <img align="left" alt="BITBUCKET" src="images/bitbucket.png" />
+<div>
 <br>
 <br>
 <br>
