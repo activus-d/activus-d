@@ -10,7 +10,7 @@
 
 ## Tech Stack 👨‍💻
 
-<div style="background-color: white; padding: 10px">
+<div style="background-color:white; padding:10px">
   <img align="left" alt="HTML" src="images/html5.png" />
   <img align="left" alt="CSS3" src="images/css3.png" />
   <img align="left" alt="JAVASCRIPT" src="images/javascript.png" />
