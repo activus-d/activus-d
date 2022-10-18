@@ -5,7 +5,7 @@
 
 [CLICK HERE TO VISIT MY PORTFOLIO](https://d-m-oladele.netlify.app/)  
 
-[CLICK HERE TO SEE MY PUBLISHED ARTICLES](https://linktr.ee/damilola_oladele)
+[CLICK HERE TO READ MY PUBLISHED ARTICLES](https://linktr.ee/damilola_oladele)
 
 <br>
 <br>
