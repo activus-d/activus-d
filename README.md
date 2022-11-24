@@ -1,5 +1,5 @@
 ## About Me
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am [Damilola Oladele](https://d-m-oladele.netlify.app) 👋, a self-motivated Frontend Engineer and Technical Writer who has a background in Law and property management. I am passionate about learning new technologies and providing web-based solutions with my experience.
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am [Damilola Oladele](https://d-m-oladele.netlify.app) 👋, a self-motivated **frontend engineer** and **technical writer** who has a background in Law and property management. I am passionate about learning new technologies and providing web-based solutions with my experience.
 
 ##
 
