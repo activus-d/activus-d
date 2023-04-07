@@ -3,8 +3,6 @@
 
 ##
 
-[MY PORTFOLIO](https://d-m-oladele.netlify.app/)  
-
 [MY PUBLISHED ARTICLES](https://linktr.ee/damilola_oladele)
 
 <br>
