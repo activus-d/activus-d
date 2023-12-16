@@ -10,12 +10,10 @@ I gained open-source community experience at Wagtail, a free and open-source con
 [https://linktr.ee/damilola_oladele](https://linktr.ee/damilola_oladele)
 
 <br>
-<br>
-<br>
 
 ## Skills 👨‍💻
 
-JavaScript, Python, Django, Wagtail, HTML, CSS, Markdown, Open-source management, Trello, Git, GitHub, Google Docs, Google Sheets, user research, information architecture
+**JavaScript, Python, Django, Wagtail, HTML, CSS, Markdown, Open-source management, Trello, Git, GitHub, Google Docs, Google Sheets, user research, information architecture**
 
 ## Stats
 
