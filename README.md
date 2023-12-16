@@ -1,31 +1,19 @@
 ## About Me
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I am [Damilola Oladele](https://d-m-oladele.netlify.app) 👋, a self-motivated **software engineer** and **technical writer** who has a background in Law and property management. I am passionate about learning new technologies and providing web-based solutions with my experience.
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> My journey as a software engineer and technical writer is a blend of expertise and  dedication. I possess diverse skill sets encompassing JavaScript, Python, Django, HTML, CSS, Markdown, Git, and GitHub. I've not only delved into the intricacies of technical writing but also exhibited a profound understanding of user research and information architecture.
+
+I gained open-source community experience at Wagtail, a free and open-source content management system (CMS). I worked with the organizers to adapt onboarding tutorials for new Wagtail users.
 
 ##
 
-[MY PUBLISHED ARTICLES](https://linktr.ee/damilola_oladele)
+[https://linktr.ee/damilola_oladele](https://linktr.ee/damilola_oladele)
 
 <br>
 <br>
 <br>
 
-## Tech Stack 👨‍💻
+## Skills 👨‍💻
 
-<div style="background-color:white; padding:10px">
-  <img align="left" alt="HTML" src="images/html5.png" />
-  <img align="left" alt="CSS3" src="images/css3.png" />
-  <img align="left" alt="JAVASCRIPT" src="images/javascript.png" />
-  <img align="left" alt="REACT JS" src="images/react.png" />
-  <img align="left" alt="NEXT JS" src="images/next2.png" />
-  <img align="left" alt="TAILWIND" src="images/tailwind.jpg" />
-  <img align="left" alt="GITHUB" src="images/GitHub.png" />
-  <img align="left" alt="BITBUCKET" src="images/bitbucket.png" />
-<div>
-<br>
-<br>
-<br>
-<br>
-<br>
+JavaScript, Python, Django, Wagtail, HTML, CSS, Markdown, Open-source management, Trello, Git, GitHub, Google Docs, Google Sheets, user research, information architecture
 
 ## Stats
 
