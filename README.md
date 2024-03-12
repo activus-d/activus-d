@@ -13,7 +13,7 @@ I gained open-source community experience at Wagtail, a free and open-source con
 
 ## Skills 👨‍💻
 
-**JavaScript, Python, Django, Wagtail, HTML, CSS, Markdown, Open-source management, Trello, Git, GitHub, Google Docs, Google Sheets, user research, information architecture**
+**JavaScript, Python, Django, Wagtail, HTML, CSS, Markdown, open-source management, Trello, Git, GitHub, Google Docs, Google Sheets, user research, information architecture**
 
 ## Stats
 
