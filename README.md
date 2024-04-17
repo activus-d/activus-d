@@ -3,7 +3,7 @@
 
 My journey as a software developer and technical writer is a blend of expertise and  dedication. I possess diverse skill sets including JavaScript, Python, Django, HTML, CSS, Markdown, Git, and GitHub. I've not only delved into the intricacies of technical writing but also exhibited a profound understanding of user research and information architecture.
 
-I gained open-source community experience at Wagtail, a free and open-source content management system (CMS). I worked with the organizers to adapt onboarding tutorials for new Wagtail users.
+I gained open-source community experience at Wagtail, a free and open-source content management system (CMS). I worked with the organizers to creat and adapt onboarding tutorials for new Wagtail users.
 
 ##
 
