@@ -7,10 +7,10 @@ For more information about me, visit my [website](https://damilola-oladele.githu
 
 ## Skills 👨‍💻
 
-| Programming Languages | Documentation Skills   | Tools & Platforms        |
+| Programming Languages | Documentation Skills   | Other Skills            |
 |----------------------|------------------------|--------------------------|
 | Python               | Technical Writing      | Open-source Community    |
-| JavaScript           | Git                    | Information Architecture|
+| JavaScript           | Git                    | Information Architecture |
 | Django               | GitHub                 | User Research            |
 | React                | Markdown               | reStructuredText         |
 | HTML                 | CSS                    |                          |
