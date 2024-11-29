@@ -1,24 +1,20 @@
 ## About Me
 <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> 
 
-My journey as a software developer and technical writer is a blend of expertise and dedication. I have experience in creating technical documentation, tutorials, and content. I also have experience writing for non-technical audiences.
+I'm a software developer and technical writer with a strong background in open source. I have worked on major projects like Wagtail CMS and Ubuntu, and my contributions span documentation, programming, mentorship, and community building.
 
-##
-
-[https://linktr.ee/damilola_oladele](https://linktr.ee/damilola_oladele)
+For more information about me, visit my [website](https://damilola-oladele.github.io)
 
 <br>
 
 ## Skills 👨‍💻
 
-**JavaScript, Python, Django, Wagtail, HTML, CSS, Markdown, open-source management, Trello, Git, GitHub, Google Docs, Google Sheets, user research, information architecture**
+## Skills
 
-## Stats
-
-![D.M. Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=activus-d&show_icons=true&theme=highcontrast&hide=issues,contribs)
-<br>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activus-d&show_icons=true&theme=highcontrast&layout=compact)
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=activusd&show_icons=true&theme=highcontrast&layout=compact)] -->
+|-------------------------|--------------------------|---------------------------|
+| Python                  | technical documentation  | open-source community     |
+| JavaScript              | Git                      | information architecture  |
+| Django                  | GitHub                   | user research             |
+| React                   | Markdown                 | reStructuredText          |
+| HTML                    | CSS                      |                           |
 
