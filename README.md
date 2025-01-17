@@ -11,6 +11,6 @@ For more information about me, visit my [website](https://damilola-oladele.githu
 |-------------------------|--------------------------|---------------------------|
 | Python                  | Technical Documentation  | Editing                   |
 | JavaScript              | Git                      | Information Architecture  |
-| NestJS                  | GitHub                   | User Research             |
+| NextJS                  | GitHub                   | User Research             |
 | React                   | Markdown                 | reStructuredText          |
 | HTML                    | CSS                      | Open-Source Community     |
