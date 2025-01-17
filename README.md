@@ -7,11 +7,10 @@ For more information about me, visit my [website](https://damilola-oladele.githu
 
 ## Skills 👨‍💻
 
-| Software Development | Documentation          | Other                    |
-|----------------------|------------------------|--------------------------|
-| Python               | reStructuredText       | Open-source Community    |
-| JavaScript           | Git                    | Information Architecture |
-| Django               | Markdown               | User Research            |
-| React                | Sphinx Development     | Git                      |
-| Typescript           |                        | GitHub                   |
-| HTML&CSS             |                        |                          |
+|                         |                          |                           |
+|-------------------------|--------------------------|---------------------------|
+| Python                  | Technical Documentation  | Editing                   |
+| JavaScript              | Git                      | Information Architecture  |
+| NestJS                  | GitHub                   | User Research             |
+| React                   | Markdown                 | reStructuredText          |
+| HTML                    | CSS                      | Open-Source Community     |
